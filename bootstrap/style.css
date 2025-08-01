@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+}
+
+.btn-outline-danger {
+    background-color: red;
+}
+.btn-outline-info {
+    background-color: blue;
+}
+.btn-outline-warning {
+    background-color: orange;
+}
+
+.w-100 {
+    width: 100%;
+}
